@@ -9,7 +9,7 @@ public class QuestionAnswer {
             "Graduated from?"
     };
     public static String choices[][] = {
-            {"google","Apple","Nokia","Samsung"},
+            {"Google","Apple","Nokia","Samsung"},
             {"Java","Python","Dart","asd"},
             {"Netware Sol","ODL","Techorra","Non"},
             {"Fuuast","Fast","Numl","Nust"}
